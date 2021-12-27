@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.speed{
+    float: left;
+}
+.volume{
+    float: right;
+}
+.music{
+    width: 200px;
+    border-radius: 100px;
+}
+canvas{
+    border-color: green;
+}
